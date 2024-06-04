@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact... **I competed in the hammer throw in college**
 
-### What do I work on?
+## What do I work on?
 <img align="middle" img width="900" alt="github_banner" src="github_banner.png">
 
 <h3 align="left">Connect with me:</h3>

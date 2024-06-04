@@ -11,7 +11,7 @@
 - ⚡ Fun fact... **I competed in the hammer throw in college**
 
 ### What do I work on?
-<img align="middle" img width="700" alt="github_banner" src="github_banner.png">
+<img align="right" img width="800" alt="github_banner" src="github_banner.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

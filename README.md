@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kendra</h1>
-<h3 align="center">I'm a 4th year PhD Student in Neural Computation at Carnegie Mellon. My research revolves around using high-resolution eye tracking, invasive neurophysiological recordings, and machine learning to understand how our brain and eyes are connected!</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendranoneman" alt="kendranoneman" /></a> </p>
 
 - 🔭 I’m currently working on **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**

@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kendra</h1>
 
-- 🔭 I’m currently working on **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**
+- 🔭 I’m currently working on... **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**
 
-- 🌱 I’m currently learning **OpenCV, human-computer interaction**
+- 🌱 I’m currently learning... **OpenCV, human-computer interaction**
 
-- 👯 I’m looking to collaborate on **analyzing eye traces, detecting eyes/faces from videos, high-performance computing**
+- 👯 I’m looking to collaborate on... **analyzing eye traces, detecting eyes/faces from videos, high-performance computing**
 
-- 📝 I regularly write articles on [visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning](visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning)
+- 📝 I regularly write articles on... [visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning](visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning)
 
-- ⚡ Fun fact **I competed in the hammer throw in college**
+- ⚡ Fun fact... **I competed in the hammer throw in college**
 
 ### What do I work on?
-<img align="middle" img width="514" alt="github_banner" src="github_banner.png">
+<img align="middle" img width="700" alt="github_banner" src="github_banner.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kendra</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendranoneman" alt="kendranoneman" /></a> </p>
 
 - 🔭 I’m currently working on **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**
 
@@ -10,6 +9,9 @@
 - 📝 I regularly write articles on [visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning](visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning)
 
 - ⚡ Fun fact **I competed in the hammer throw in college**
+
+### What do I work on?
+<img align="middle" img width="514" alt="github_banner" src="github_banner.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendranoneman&" alt="kendranoneman" /></p>
 
 
-### What do I work on?
-<img align="middle" img width="514" alt="github_banner" src="github_banner.png">
+
 
 
 

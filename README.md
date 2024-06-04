@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on... **analyzing eye traces, detecting eyes/faces from videos, high-performance computing**
 
-- 📝 I regularly write articles on... [visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning](visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning)
+- 📝 I regularly write articles on... **visual neuroscience, oculomotor control, smooth pursuit eye movements, machine learning**
 
 - ⚡ Fun fact... **I competed in the hammer throw in college**
 

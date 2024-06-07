@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kendra</h1>
+<h1 align="center">Hi 👋, I'm Kendra!</h1>
 
-[Link to my CV](https://github.com/kendranoneman/latex_cv/blob/main/Noneman_CV.pdf)
+<div align="center">
+  <a href="https://github.com/kendranoneman/latex_cv/blob/main/Noneman_CV.pdf" style="text-decoration:none">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="Resume Icon" style="vertical-align:middle; margin-right: 10px;"/>
+    <span style="font-size:20px; color:#000000;">Curriculum Vitae</span>
+  </a>
+</div>
 
 - 🔭 I’m currently working on... **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**
 

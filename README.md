@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kendra</h1>
 
+[Link to my CV](https://github.com/kendranoneman/latex_cv/blob/main/Noneman_CV.pdf)
+
 - 🔭 I’m currently working on... **decoding gaze behavior from neuronal activity, detecting gaze from videos of human and non-human primates, using computer vision tools to determine real-time gaze from mutliple subjects simultaneously**
 
 - 🌱 I’m currently learning... **OpenCV, human-computer interaction**

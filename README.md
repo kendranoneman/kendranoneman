@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact... **I competed in the hammer throw in college**
 
-## What do I work on?
-<img align="middle" img width="900" alt="github_banner" src="github_banner.png">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kendranoneman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kendranoneman" height="30" width="40" /></a>
